@@ -24,4 +24,4 @@ Kopiere dir deinen Kanal-Kurzcode. Diesen erfährst du indem du auf deine Kanal-
 ![](https://imgur.com/4Yc1lGr.png)
 
 ## Schritt 6:
-Nun gebe auf Discord folgenden Befehl ein: "!sync YouTube <dein Kurzcode>"
+Nun gebe auf Discord folgenden Befehl ein: "!sync YouTube \<dein Kurzcode\>"
