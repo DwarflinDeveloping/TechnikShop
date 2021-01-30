@@ -25,3 +25,7 @@ Kopiere dir deinen Kanal-Kurzcode. Diesen erfährst du indem du auf deine Kanal-
 
 ## Schritt 6:
 Nun gebe auf Discord folgenden Befehl ein: "!sync YouTube \<dein Kurzcode\>"
+Jetzt solltest du erfolgreich mit Discord verifiziert sein!
+
+## Fehler? Hilfe? Anmerkungen?
+Ich helfe immer bei Fehlern in meinem System weiter, soweit es mir möglich ist. Wenn es irgendweche Unstimmigkeiten gibt, bitte zögere nicht mich zu kontaktieren! Erreichen kannst du mich einfach über meine E-Mail (dwarflin@gmx.de) oder über Discord (KarottenHoe#0874). Um dir unnötige Wartezeit zu ersparen, ließ dir am besten schon einmal die [bekannten Fehlerlösungen](https://github.com/DwarflinDeveloping/TechnikShop-docs/blob/main/troubleshooting.md) durch.
