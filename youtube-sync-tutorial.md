@@ -5,7 +5,7 @@ Hier findest du ein Tutorial, wie du deinen YouTube-Account mit Discord verifizi
 Gebe im TechnikShop-Discord folgende Nachricht ein: "!whatsmyid". Wenn du das getan hast kopiere die ID mit Strg+C
 
 ## Schritt 1:
-Regestriere dich bei YouTube ([klicke hier]https://www.youtube.com/signup)) und/oder melde dich an.
+Regestriere dich bei YouTube [(klicke hier)](https://www.youtube.com/signup) und/oder melde dich an.
 
 ## Schritt 2:
 Gehe auf die Startseite deines YouTube-Kanals und drücke den Knopf "KANAL ANPASSEN"
